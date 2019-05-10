@@ -1,0 +1,6 @@
+name: OnJoinTitleMessage
+api: ["1.0.8"]
+version: "1.0.0"
+main: TitleSign.Message
+author: "若水"
+load: POSTWORLD
